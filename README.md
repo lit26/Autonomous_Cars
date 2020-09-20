@@ -9,3 +9,9 @@ Team: Tianning Li, Lirui Wang
 Professor: Rania Hussein
 
 Teaching Assistant: Shuowei Li, Nikola Dancejic, Tavio Guarino
+
+## Report
+[Final Project Report](https://github.com/lit26/Autonomous_Cars/blob/master/EE474Project.pdf)
+
+## Demo
+![screenshot1](EE-474-projectshort.gif)
